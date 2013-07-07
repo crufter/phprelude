@@ -44,7 +44,7 @@ Outputs:
 6
 ```
 
-```
+```php
 class Person implements Ord {
     private $sex, $age; // $sex: 0 for men 1 for ladies.
     public $name;
